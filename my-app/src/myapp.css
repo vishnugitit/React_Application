@@ -1,35 +1,37 @@
+* {
+  font-family: "Gill Sans MT", Calibri;
+}
+.layout {
+  background-image: url(./wall6.jpg);
+  background-position: center;
+  background-size: cover;
 
-*{
-    font-family:  'Gill Sans MT', Calibri;
-}.layout{
-    background:linear-gradient(white, rgb(198, 100, 62));
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.web{
-    color: rgb(51, 51, 183);
-
+.web {
+  color: rgb(51, 51, 183);
 }
-.full,.developer{
-    color:black;
+.full,
+.developer {
+  color: black;
 }
-p{
-    color: white;
-    font-weight: 500;
+p {
+  color: white;
+  font-weight: 500;
 }
-.quote1{
- 
-    color:crimson;
-    font-size: 18px;
+.quote1 {
+  color: crimson;
+  font-size: 18px;
 }
-.quote2{
-    color: blue;
-    font-size: 18px;
+.quote2 {
+  color: blue;
+  font-size: 18px;
 }
-.quote3{
-    color:black;
-    font-size: 18px;
+.quote3 {
+  color: black;
+  font-size: 18px;
 }
